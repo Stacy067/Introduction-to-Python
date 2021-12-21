@@ -1,2 +1,2 @@
-# Introduction-to-Python
-Introduction to Python class in SNU
+## Introduction-to-Python
+> Introduction to Python class in SNU
